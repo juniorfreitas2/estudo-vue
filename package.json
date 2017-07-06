@@ -21,6 +21,7 @@
     "vue": "vue/dist/vue.common.js"
   },
   "dependencies": {
+    "lodash": "^4.17.4",
     "vue": "^2.0.1"
   },
   "devDependencies": {
